@@ -142,6 +142,7 @@ button:hover {
   }
   #input-card,
   #weather-card {
+   
     width: 80%;
   }
   button {
@@ -149,3 +150,5 @@ button:hover {
     font-size: 13px;
   }
 }
+
+
